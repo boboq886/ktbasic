@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My Application.iml" filepath="$PROJECT_DIR$/My Application.iml" group="My Application" />
+      <module fileurl="file://$PROJECT_DIR$/basickt/basickt.iml" filepath="$PROJECT_DIR$/basickt/basickt.iml" group="My Application/basickt" />
+      <module fileurl="file://$PROJECT_DIR$/basicrxjavasample/basicrxjavasample.iml" filepath="$PROJECT_DIR$/basicrxjavasample/basicrxjavasample.iml" group="My Application/basicrxjavasample" />
+    </modules>
+  </component>
+</project>
