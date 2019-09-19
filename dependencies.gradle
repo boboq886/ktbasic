@@ -51,7 +51,7 @@ ext {
 
             support_v13                 : [group: 'androidx.legacy', name: 'legacy-support-v13', version: versions.support],
             design                      : [group: 'com.google.android.material', name: 'material', version: '1.0.0-rc01'],
-            recyclerview                : [group: 'androidx.recyclerview', name: 'recyclerview', version: versions.support],
+            recyclerview                : [group: 'androidx.recyclerview', name: 'recyclerview', version: '1.0.0'],
             cardview                    : [group: 'androidx.cardview', name: 'cardview', version: versions.support],
             annotations                 : [group: 'androidx.annotation', name: 'annotation', version: versions.support],
 
